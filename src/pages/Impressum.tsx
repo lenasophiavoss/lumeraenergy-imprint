@@ -4,7 +4,7 @@ const Impressum = () => {
   return (
     <div className="min-h-screen py-12 px-4 sm:px-6 lg:px-8" style={{ backgroundColor: '#180602', fontFamily: "'M PLUS 1', sans-serif" }}>
       <div className="max-w-3xl mx-auto">
-        <Card className="shadow-lg" style={{ backgroundColor: '#180602', color: '#FFFFFF' }}>
+        <Card className="shadow-lg border-2" style={{ backgroundColor: '#180602', color: '#FFFFFF', borderColor: '#E9350C' }}>
           <CardContent className="pt-6">
             <h1 className="text-3xl font-bold mb-8" style={{ color: '#E9350C' }}>Impressum</h1>
             
